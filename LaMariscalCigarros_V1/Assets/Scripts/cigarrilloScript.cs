@@ -69,13 +69,14 @@ public class cigarrilloScript : MonoBehaviour
 
     }
 
-
+    //Increments points per cigarrette destroyed
     public void AumentarPuntaje()
     {
         scoreNumber++;
         scoreText.GetComponentInChildren<Text>().text = "Puntaje: " + scoreNumber;
     }
 
+    //decreases life based on hits taken by the tree
     public void DisminuirVida()
     {
         if(livesNumber > 0)

@@ -57,8 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\cigarrilloScript.cs" />
-    <Compile Include="Assets\Scripts\BehaviourCigarette.cs" />
     <Compile Include="Assets\Scripts\GameOverScreen.cs" />
+    <Compile Include="Assets\Scripts\BehaviourCigarette.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
