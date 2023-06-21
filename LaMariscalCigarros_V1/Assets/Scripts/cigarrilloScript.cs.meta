@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ed32b3cd514ede46b3bd6f6708142a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cigarrette: {fileID: 3377758938832645829, guid: 7f714d5b6501fd04da5474459b930d34, type: 3}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - altura: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
